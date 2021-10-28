@@ -1,0 +1,11 @@
+1. Copiar enlace de GitHub
+2. en el bash escribir el siguiente comando
+  git clone [enlace de GitHub]
+3. se ubica en la carpeta
+4. Realiza los cambios del archivo y/o codigo
+5. comando git add .
+6. comando git commit -m "y una descripcion"
+7. comando git pull origin main // para descargar ultima version
+8. resolver conflictos
+9. comando git push origin main  // para subirlo al master
+10.Comando git status para verificar.
