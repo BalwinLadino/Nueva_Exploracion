@@ -9,3 +9,4 @@
 8. resolver conflictos
 9. comando git push origin main  // para subirlo al master
 10.Comando git status para verificar.
+11. Disfrutar de GitHUB
